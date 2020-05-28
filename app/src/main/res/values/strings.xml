@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tic_tac_toe</string>
+    <string name="name">TIC-TAC-TOE</string>
+    <string name="Restart">RESTART</string>
+    <string name="Double">DUAL PLAYER</string>
+    <string name="single">SINGLE PLAYER</string>
+    <string name="leader">LEADERBOARD</string>
+</resources>

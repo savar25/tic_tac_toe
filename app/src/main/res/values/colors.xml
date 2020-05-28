@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="LightBrown">#FFFFEF</color>
+    <color name="DarkBrown">#661100</color>
+    <color name="Pgreen">#D1FFD2</color>
+    <color name="tingGreen">#f1ffa3</color>
+    <color name="Grass">#7CFC00</color>
+    <color name="borderGreen">#013220</color>
+    <color name="rBlue">#5000FB</color>
+    <color name="rorange">#FF8030</color>
+    <color name="Lpink">#ddffb6c1</color>
+    <color name="lgrey">#a7a7a7</color>
+</resources>
